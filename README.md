@@ -99,9 +99,9 @@ https://sayon-mitra024.github.io/Attendance-IQ/
 <td align="center" width="33%"><strong>Analytics</strong></td>
 </tr>
 <tr>
-<td><img src="assets/dashboard.png" alt="Attendance IQ Dashboard view showing overall percentage, mini-stats, and subject cards" width="100%"/></td>
-<td><img src="assets/calendar.png" alt="Attendance IQ Calendar view showing monthly lecture chips" width="100%"/></td>
-<td><img src="assets/analytics.png" alt="Attendance IQ Analytics view showing distribution, weekly, monthly, and trend charts" width="100%"/></td>
+<td><img src="assets/Dashboard.png" alt="Attendance IQ Dashboard view showing overall percentage, mini-stats, and subject cards" width="100%"/></td>
+<td><img src="assets/Calendar.png" alt="Attendance IQ Calendar view showing monthly lecture chips" width="100%"/></td>
+<td><img src="assets/Analytics.png" alt="Attendance IQ Analytics view showing distribution, weekly, monthly, and trend charts" width="100%"/></td>
 </tr>
 </table>
 
