@@ -31,9 +31,9 @@ This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participatin
 
 ```bash
 # Fork the repo on GitHub first, then:
-git clone https://github.com/YOUR_USERNAME/Attendance-IQ.git
+git clone https://github.com/sayon-mitra024/Attendance-IQ.git
 cd Attendance-IQ
-git remote add upstream https://github.com/ORIGINAL_OWNER/Attendance-IQ.git
+git remote add upstream https://github.com/sayon-mitra024/Attendance-IQ.git
 ```
 
 ## Branch Naming
